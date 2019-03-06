@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>L4PGLC2CSF.com.zhongfucaifu.fund</string>
+				<string>com.zhongfucaifu.fund</string>
 				<key>bundle-version</key>
 				<string>6.0</string>
 				<key>kind</key>
