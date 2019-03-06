@@ -28,14 +28,14 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>application-identifier</key>
+				<string>L4PGLC2CSF.com.zhongfucaifu.fund</string>
 				<key>bundle-version</key>
 				<string>6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>App Install ...</string>
+				<string>中孚财富</string>
 			</dict>
 		</dict>
 	</array>
